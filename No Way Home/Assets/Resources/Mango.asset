@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b11352306d84074f82e19f53d74d5b0, type: 3}
+  m_Name: Mango
+  m_EditorClassIdentifier: 
+  _itemId: bfdbff01-0c07-458e-a4ce-28ffa67645d2
+  _displayName: Mango
+  _description: "Delicious Mango\t"
+  _icon: {fileID: -3386218922703161388, guid: 215687feeab0b7445b4a1cd86c82c2e1, type: 3}
+  DropPrefab: {fileID: 405340202476245452, guid: 23d1ea4c84abbf842b8cf589d54f8144, type: 3}
+  ItemBehaviour: 2
+  CanStack: 1
+  MaxStackAmount: 5
