@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b11352306d84074f82e19f53d74d5b0, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  _itemId: 89f5208e-ea20-4f81-acc4-d9da9e68e6a8
+  _displayName: Fish
+  _description: Fresh fishes to eat!
+  _icon: {fileID: 21300000, guid: 504b5819597665e44a873d9bd414dc98, type: 2}
+  DropPrefab: {fileID: 3828846876288801734, guid: 1c6865324f95c004293d5d1efe86d559, type: 3}
+  ItemBehaviour: 0
+  CanStack: 0
+  MaxStackAmount: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b11352306d84074f82e19f53d74d5b0, type: 3}
+  m_Name: Bread
+  m_EditorClassIdentifier: 
+  _itemId: e46bdd1a-9da9-47cc-a8bb-a7fa6c9ec592
+  _displayName: Bread
+  _description: morning bread to you
+  _icon: {fileID: 21300000, guid: e7ad523319b276b41955230d16445da5, type: 2}
+  DropPrefab: {fileID: 839233260410868668, guid: d6846055e97b9ac42a6e11a3ea4f1237, type: 3}
+  ItemBehaviour: 2
+  CanStack: 0
+  MaxStackAmount: 0
