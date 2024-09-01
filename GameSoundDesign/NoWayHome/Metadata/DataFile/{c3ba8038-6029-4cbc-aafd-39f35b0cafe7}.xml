@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c3ba8038-6029-4cbc-aafd-39f35b0cafe7}">
+		<property name="assetPath">
+			<value>JumpscareSounds/Classic/jumpscare_03.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9430e62c-8139-4a0e-90b9-5c13995edc40}</destination>
+		</relationship>
+	</object>
+</objects>

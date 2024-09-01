@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{9fac0a2e-d991-4a1b-9665-46e164c8d244}">
+		<property name="assetPath">
+			<value>Interact/CRT/CRT_Off.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9430e62c-8139-4a0e-90b9-5c13995edc40}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{adac81d7-d356-4927-8b17-8a861e8955c4}">
+		<property name="assetPath">
+			<value>JumpscareSounds/Classic/scream_03.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9430e62c-8139-4a0e-90b9-5c13995edc40}</destination>
+		</relationship>
+	</object>
+</objects>

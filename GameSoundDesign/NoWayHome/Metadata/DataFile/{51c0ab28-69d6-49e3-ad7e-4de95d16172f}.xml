@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{51c0ab28-69d6-49e3-ad7e-4de95d16172f}">
+		<property name="assetPath">
+			<value>Interact/Flashlight/Battery_Out.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9430e62c-8139-4a0e-90b9-5c13995edc40}</destination>
+		</relationship>
+	</object>
+</objects>

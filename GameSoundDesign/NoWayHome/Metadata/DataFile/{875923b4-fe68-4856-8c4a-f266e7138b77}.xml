@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{875923b4-fe68-4856-8c4a-f266e7138b77}">
+		<property name="assetPath">
+			<value>Interact/Valve Squeaky/turn_squeak_01.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9430e62c-8139-4a0e-90b9-5c13995edc40}</destination>
+		</relationship>
+	</object>
+</objects>
