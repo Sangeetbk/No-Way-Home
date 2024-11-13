@@ -657,9 +657,15 @@ MonoBehaviour:
   m_PhysicallyBased:
     m_OverrideState: 1
     m_Value: 0
+  m_AdaptiveSamplingWeight:
+    m_OverrideState: 1
+    m_Value: 0.75
   m_LimitManualRangeNearBlur:
     m_OverrideState: 1
     m_Value: 0
+  coCStabilization:
+    m_OverrideState: 1
+    m_Value: 1
 --- !u!114 &-2518112827867617364
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -708,12 +714,14 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 2384dbf2c1c420f45a792fbc315fbfb1, type: 2}
     - {fileID: 11400000, guid: cb824b513c3aa274db0944d6fb82a86c, type: 2}
     - {fileID: 11400000, guid: 576900b757dc2bb42b835d6ba90283b9, type: 2}
+    - {fileID: 11400000, guid: 2f995df9a3ad4e6499669b35a6ff3a2b, type: 2}
     - {fileID: 11400000, guid: 127180f36cca13943a0c07f38200ab2a, type: 2}
     - {fileID: 11400000, guid: f285b103f609638488d95c47455003e4, type: 2}
-    - {fileID: 11400000, guid: 3e863aa73acba1e4d8b7e80026a5a4ee, type: 2}
-    - {fileID: 11400000, guid: 70aafa30c6b72c14783e903d0a166d14, type: 2}
+    - {fileID: 11400000, guid: 825e593201720ca4d85d4f3563199fb5, type: 2}
     - {fileID: 11400000, guid: f0d53ace3a50e6b4dbc57630f27e7b67, type: 2}
     - {fileID: 11400000, guid: f60fd83b817fae94fa9a458f6274a779, type: 2}
+    - {fileID: 11400000, guid: 3e863aa73acba1e4d8b7e80026a5a4ee, type: 2}
+    - {fileID: 11400000, guid: 70aafa30c6b72c14783e903d0a166d14, type: 2}
 --- !u!114 &-2164221777592162916
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -942,6 +950,9 @@ MonoBehaviour:
   cullingDistance:
     m_OverrideState: 1
     m_Value: 1000
+  minSolidAngle:
+    m_OverrideState: 1
+    m_Value: 4
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1959,6 +1970,9 @@ MonoBehaviour:
   tileOpacityThreshold:
     m_OverrideState: 1
     m_Value: 0.95
+  writeDepthAlphaThreshold:
+    m_OverrideState: 1
+    m_Value: 0
 --- !u!114 &5315503232242033309
 MonoBehaviour:
   m_ObjectHideFlags: 3
